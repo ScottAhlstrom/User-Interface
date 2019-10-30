@@ -64,3 +64,47 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+* {
+	border: 1px solid grey;
+}
+
+
+.navigation {
+	color: rgb(57, 26, 194);
+	display: inline-block;
+	margin: 0 3.5%;
+}
+nav a{
+	padding: 2%;
+}
+
+
+.top a {
+	display: inline-block;
+	font-size: 15px;
+	padding: 50px;
+}
+
+.top-content {
+	display: inline-block;
+	
+}
+
+h1 {
+	font-size: 55px;
+	width: 50%;
+}
+.top-content img {
+	padding: 0px 0px 0px 400px;
+	
+}
+
+.top-content div a {
+	border: 1px solid black;
+	padding: 5px 35px;
+	color: black;
+}
+.top-content div {
+	padding: 0px 0px 0px 400px;
+	
+}
